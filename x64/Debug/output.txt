@@ -1,0 +1,20 @@
+256 vs 256-- Online Avg Time: 20 ms 
+256 vs 256-- Offline Avg Time: 326 ms 
+256 vs 256-- Total Avg Time: 347 ms 
+--------------------------
+4096 vs 4096-- Online Avg Time: 53 ms 
+4096 vs 4096-- Offline Avg Time: 340 ms 
+4096 vs 4096-- Total Avg Time: 393 ms 
+--------------------------
+65536 vs 65536-- Online Avg Time: 666 ms 
+65536 vs 65536-- Offline Avg Time: 569 ms 
+65536 vs 65536-- Total Avg Time: 1235 ms 
+--------------------------
+1048576 vs 1048576-- Online Avg Time: 11876 ms 
+1048576 vs 1048576-- Offline Avg Time: 4183 ms 
+1048576 vs 1048576-- Total Avg Time: 16059 ms 
+--------------------------
+16777216 vs 16777216-- Online Avg Time: 2268742 ms 
+16777216 vs 16777216-- Offline Avg Time: 71746 ms 
+16777216 vs 16777216-- Total Avg Time: 2340488 ms 
+--------------------------

@@ -1,0 +1,103 @@
+﻿  BitVector.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  ByteStream.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  Defines.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  Log.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+  Commit.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  PRNG.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  sha1.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\cryptopp\misc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\BaRK-OPRF-master\thirdparty\win\cryptopp\smartptr.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  BaseSSOT.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  BaseOT.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  PvwBaseOT.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  crypto.cpp
+D:\code\BaRK-OPRF-master\thirdparty\win\cryptopp\misc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\BaRK-OPRF-master\thirdparty\win\cryptopp\smartptr.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  ecc-pk-crypto.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  naor-pinkas.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  IknpOtExtReceiver4k.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  bigint.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  modp.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  Zp_Data.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  IknpOtExtSender4k.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  Tools.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  SSOTReceiver.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  正在编译...
+  SSOTSender.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  CuckooHasher.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  SimpleHasher.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  BopPsiReceiver.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory
+  BopPsiSender.cpp
+D:\code\BaRK-OPRF-master\bOPRFlib\Common\Defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\BaRK-OPRF-master\thirdparty\win\mpir\mpirxx.h(46,10): fatal error C1083: 无法打开包括文件: “mpir.h”: No such file or directory

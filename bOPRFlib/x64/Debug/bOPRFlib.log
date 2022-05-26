@@ -1,0 +1,21 @@
+﻿  BopPsiReceiver.cpp
+  Unknown compiler version - please run the configure tests and report the results
+D:\code\PSI-from-SOPRF\thirdparty\win\cryptopp\misc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\PSI-from-SOPRF\thirdparty\win\cryptopp\smartptr.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\PSI-from-SOPRF\thirdparty\win\boost\boost\thread\win32\thread_primitives.hpp(313,71): warning C4191: “类型强制转换”: 从“boost::detail::win32::farproc_t”到“boost::detail::win32::detail::gettickcount64_t”的不安全转换
+          通过结果指针调用该函数可能导致程序失败
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock.h(374,1): warning C4005: “INVALID_SOCKET”: 宏重定义
+D:\code\PSI-from-SOPRF\bOPRFlib\OT\Base\typedefs.h(88): message : 参见“INVALID_SOCKET”的前一个定义
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(146,72): warning C4305: “参数”: 从“__int64”到“int”截断
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(146,40): warning C4309: “参数”: 截断常量值
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(146,27): warning C4309: “参数”: 截断常量值
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp : 155 warning : TODO - "make real keys seeds"
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp : 199 warning : TODO - "run in parallel"
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(371,95): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(398,95): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(548,72): warning C4305: “参数”: 从“__int64”到“int”截断
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(548,40): warning C4309: “参数”: 截断常量值
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp(548,27): warning C4309: “参数”: 截断常量值
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp : 557 warning : TODO - "make real keys seeds"
+D:\code\PSI-from-SOPRF\bOPRFlib\PSI\BopPsiReceiver.cpp : 601 warning : TODO - "run in parallel"
+  bOPRFlib.vcxproj -> D:\code\PSI-from-SOPRF\x64\Debug\bOPRFlib.lib
