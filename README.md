@@ -1,1 +1,1 @@
-# PSI-from-SOPRF
+# PSC-from-SOPRF
